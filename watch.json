@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "SmartWatch Model AAA",
+      "price": 199.99
+    },
+    {
+      "id": 2,
+      "name": "SmartWatch Model B",
+      "price": 149.95
+    },
+    {
+      "id": 3,
+      "name": "SmartWatch Model C",
+      "price": 249.99
+    },
+    {
+      "id": 4,
+      "name": "SmartWatch Model D",
+      "price": 179.50
+    },
+    {
+      "id": 5,
+      "name": "SmartWatch Model E",
+      "price": 219.00
+    }
+  ]
+  
